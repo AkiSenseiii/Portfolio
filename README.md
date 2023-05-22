@@ -1,6 +1,6 @@
 # Portfolio
 
-portfolio-akisenseiii.vercel.app 
+[portfolio-akisenseiii.vercel.app ](https://akisenseiii.github.io/Portfolio/)
 
 This is my humble portfolio 
 
